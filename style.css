@@ -341,7 +341,7 @@ footer {
   }
   .about img {
     width: 45vw;
-    margin-top: 20vw;
+    margin-top: 10vw;
     padding-top: 0vw;
     padding-bottom: 0vw;
   }
@@ -359,7 +359,7 @@ footer {
     margin-top: 5vw;
   }
   .projects .container {
-    width: 400px;
+    width: 80vw;
     height: 500px;
   }
   .skills .box .myskills {
