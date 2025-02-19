@@ -359,8 +359,10 @@ footer {
     margin-top: 5vw;
   }
   .projects .container {
-    width: 80vw;
+    width: 90vw;
     height: 500px;
+    margin-left: 3vw;
+    padding-left: 3vw;
   }
   .skills .box .myskills {
     font-size: 40px;
