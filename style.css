@@ -351,6 +351,11 @@ footer{
   .about .links {
     margin-top: 5vw;
   }
+  .projects .container{
+    width: 400px;
+    height: 500px;
+
+  }
   .skills .box .myskills{
     font-size: 40px;
   }
