@@ -316,19 +316,19 @@ footer {
     padding-left: 5vw;
   }
   .about img {
-    width: 45vw;
+    width: 200px;
     padding: 30px;
   }
   .about div h1 {
     text-align: center;
-    font-size: xx-large;
   }
   .about div h3 {
     text-align: center;
-    font-size: x-large;
+    font-size:  20px;
   }
   .about div p {
     text-align: center;
+    font-size: 15px;
   }
   .about .links {
     justify-content: center;
@@ -340,7 +340,7 @@ footer {
     font-size: medium;
   }
   .about img {
-    width: 45vw;
+    width: 200px;
     margin-top: 10vw;
     padding-top: 0vw;
     padding-bottom: 0vw;
